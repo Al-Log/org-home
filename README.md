@@ -1,2 +1,14 @@
-# org-home
-Welcome to Al Log !!
+# 👋 Welcome to Al-Log!
+
+우리는 대학생 개발자들이 모여 **알고리즘 스터디, 오픈소스 활동, 프로젝트 협업**을 진행하는 기술 커뮤니티입니다.
+
+- 🚀 GitHub 자동 채점 시스템
+- 📊 출석 체크 및 미제출 자동 이메일
+- 📅 스터디 운영 자동화
+
+👉 [스터디 참여 가이드](https://github.com/Al-Log/onboarding)  
+👉 [문제집 목록](https://github.com/Al-Log/problems)
+
+---
+> 이 페이지는 Organization 소개 용도로 운영됩니다.  
+문의: contact@al-log.com
