@@ -6,9 +6,6 @@
 - 📊 출석 체크 및 미제출 자동 이메일
 - 📅 스터디 운영 자동화
 
-👉 [스터디 참여 가이드](https://github.com/Al-Log/onboarding)  
-👉 [문제집 목록](https://github.com/Al-Log/problems)
-
 ---
 > 이 페이지는 Organization 소개 용도로 운영됩니다.  
-문의: contact@al-log.com
+문의: csh091456743@gmail.com
